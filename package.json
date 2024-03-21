@@ -2,7 +2,7 @@
   "name": "bill",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EvanSiberian.github.io",
+  "homepage": "https://evansiberian.github.io/EvanSiberian",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
